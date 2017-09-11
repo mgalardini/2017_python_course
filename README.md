@@ -1,4 +1,4 @@
-2016_python_course
+2017_python_course
 ==================
 
 By Adrien Leger, Marco Galardini and Toby Hodges
