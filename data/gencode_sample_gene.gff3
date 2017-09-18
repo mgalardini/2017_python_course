@@ -1,0 +1,4 @@
+chr12	HAVANA	gene	53298655	53300314	.	-	.	ID=ENSG00000257605.2;gene_id=ENSG00000257605.2;gene_type=antisense;gene_status=KNOWN;gene_name=RP11-680A11.5;level=2;havana_gene=OTTHUMG00000170029.2
+chr2	HAVANA	gene	27771717	27988087	.	+	.	ID=ENSG00000243147.7;gene_id=ENSG00000243147.7;gene_type=protein_coding;gene_status=KNOWN;gene_name=MRPL33;level=2;tag=overlapping_locus;havana_gene=OTTHUMG00000097795.2
+chr5	HAVANA	gene	134905235	134905691	.	+	.	ID=ENSG00000279799.1;gene_id=ENSG00000279799.1;gene_type=TEC;gene_status=KNOWN;gene_name=AC006077.3;level=2;tag=overlapping_locus;havana_gene=OTTHUMG00000163060.1
+chr7	HAVANA	gene	101162509	101165593	.	-	.	ID=ENSG00000128564.6;gene_id=ENSG00000128564.6;gene_type=protein_coding;gene_status=KNOWN;gene_name=VGF;level=2;havana_gene=OTTHUMG00000157109.2
