@@ -28,9 +28,6 @@ dependencies:
 - jinja2=2.9.6=py27_0
 - jsonschema=2.6.0=py27_0
 - jupyter=1.0.0=py27_3
-- jupyter_client=5.1.0=py27_0
-- jupyter_console=5.2.0=py27_0
-- jupyter_core=4.3.0=py27_0
 - libpng=1.6.30=1
 - libtiff=4.0.6=3
 - markupsafe=1.0=py27_0
@@ -94,9 +91,5 @@ dependencies:
   - backports.shutil-get-terminal-size==1.0.0
   - backports.ssl-match-hostname==3.5.0.1
   - ipython-genutils==0.2.0
-  - jupyter-client==5.1.0
-  - jupyter-console==5.2.0
-  - jupyter-core==4.3.0
   - prompt-toolkit==1.0.15
   - tifffile
-prefix: /Users/hodges/anaconda/envs/interpython
