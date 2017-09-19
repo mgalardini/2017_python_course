@@ -63,8 +63,6 @@ dependencies:
 - pytz=2017.2=py27_0
 - pywavelets=0.5.2=np112py27_0
 - pyzmq=16.0.2=py27_0
-- qt=5.6.2=2
-- qtconsole=4.3.1=py27_0
 - readline=6.2=2
 - reportlab=3.4.0=py27_0
 - scandir=1.5=py27_0
